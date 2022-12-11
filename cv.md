@@ -23,3 +23,21 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 I start to learn Front-End Development in RSSchool!
 
 ---
+
+## Skills
+
+1. HTML5, CSS3
+2. JavaScript Basics
+3. Git, GitHub
+
+---
+
+## Code Examples
+
+```
+function multiply(a, b){
+ return a * b
+}
+```
+
+---
