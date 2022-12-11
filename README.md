@@ -1,1 +1,1 @@
-https://MTatsiana.github.io/rsschool-cv/cv
+https://MTatsiana.github.io/rsschool-cv/
