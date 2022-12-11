@@ -41,3 +41,15 @@ function multiply(a, b){
 ```
 
 ---
+
+## Education
+
+-  Belarusian State University of Informatics and Radioelectronics
+
+---
+
+## Languages
+
+-  English - Per-intermediate (in process…)
+-  German - Basic
+-  Russian - native speaker
