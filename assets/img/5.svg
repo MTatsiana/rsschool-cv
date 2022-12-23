@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 32" width="30" height="32">
+	<title>5-svg</title>
+	<defs>
+		<image  width="30" height="30" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAAXNSR0IB2cksfwAAAEtQTFRFgpmEAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AhjwDKwAAABl0Uk5TAP/jUzG9wmgRAXTXNA0jL7vNJgZg/q2B2XgRqgMAAAB/SURBVHictZLXDoAwCEWLe+/1/1/qg6lCGTEx3jc40MClziHBJScJsEzIeEhpQRQnqc9xnuVFWaGY8rppu37QVoBxmpdwVoTXbT/kTUid2K4ZhbBAfZuN7SP8i79N/sYWw1SZA8X6QQVOv0v4uZT4XiR8DriESRXICrgPTwFKnYvyAnkTHgeAAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: #829984 } 
+	</style>
+	<use id="Layer" href="#img1" x="0" y="1"/>
+	<path id="Layer copy" fill-rule="evenodd" class="s0" d="m16.9 1.6c8.4 1 14.2 9 12.6 17.2-1.9 9.4-12.1 14.4-20.6 10.3-8.4-4.2-10.8-15-4.9-22.2 2.5-3.2 6-5 10.3-5.4 0.3 0 2.1 0 2.6 0.1zm-1.6 3.4c-2.7-0.2-6.3 1.4-8.3 3.7-1.8 2.1-2.9 5.1-2.8 7.5 0 0.1 0.1 0.4 0.1 0.6 0.2 4.6 3.7 8.8 8.3 9.9 8.7 2.2 16.1-6.4 12.9-14.8-1.6-3.9-5.5-6.8-9.6-6.9-0.2 0-0.5 0-0.6 0z"/>
+</svg>
