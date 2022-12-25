@@ -1,1 +1,1 @@
-# rsschool-cv
+https://mtatsiana.github.io/rsschool-cv/
